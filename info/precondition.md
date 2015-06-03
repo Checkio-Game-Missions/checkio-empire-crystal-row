@@ -1,5 +1,5 @@
 **Precondition:**
-```python
-1 < len(line) <= 1000
-all(ch in "XZ" for ch in line)
-```
+
+`1 < |line| ≤ 1000`
+
+`∀ x ∈ line: x='X' OR x=='Z'`
