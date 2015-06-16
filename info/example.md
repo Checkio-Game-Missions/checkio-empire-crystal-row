@@ -1,6 +1,6 @@
 **Example:**
 
-```python
-check_line(["X", "Z", "X"]) == True
-check_line(["X", "Z", "X", "X"]) == False
+```javascript
+checkLine(["X", "Z", "X"]) == true
+checkLine(["X", "Z", "X", "X"]) == false
 ```

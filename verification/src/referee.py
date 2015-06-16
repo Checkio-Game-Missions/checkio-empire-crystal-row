@@ -10,3 +10,6 @@ class Referee(RefereeBase):
     ENVIRONMENTS = settings_env.ENVIRONMENTS
 
     DEFAULT_FUNCTION_NAME = "check_line"
+    FUNCTION_NAMES = {
+        "js_node": "checkLine"
+    }
