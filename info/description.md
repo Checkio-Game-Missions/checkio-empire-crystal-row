@@ -11,3 +11,5 @@ Z - X - Z - X - Z - X Good
 Z - X - X - Z - X - Z Bad
 Z - X - Z - Z - Z - X Bad
 ```
+
+![Rows](rows.svg)
