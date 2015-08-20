@@ -13,4 +13,6 @@ if (!global.is_checking) {
     assert.equal(checkLine(["X", "Z"]), true, "3rd example");
     assert.equal(checkLine(["Z", "X"]), true, "4th example");
     assert.equal(checkLine(["Z", "X", "Z", "X", "Z", "Z", "X"]), false, "5th example");
+    console.log("Coding complete? Click 'Check' to review your tests and earn cool rewards!");
 }
+
